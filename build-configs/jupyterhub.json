@@ -39,7 +39,7 @@
                     "type": "Git",
                     "git": {
                         "uri": "https://github.com/ekraegeloh/jupyterhub-quickstart.git",
-                        "ref": "3.4.0"
+                        "ref": "3.4.1"
                     }
                 },
                 "strategy": {
@@ -55,7 +55,7 @@
                 "output": {
                     "to": {
                         "kind": "ImageStreamTag",
-                        "name": "jupyterhub:3.4.0"
+                        "name": "jupyterhub:3.4.1"
                     }
                 }
             }
